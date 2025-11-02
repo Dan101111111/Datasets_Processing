@@ -1,0 +1,19 @@
+# Dependencias para la aplicación Streamlit
+# Preprocesamiento de Datasets
+
+# Framework web
+streamlit>=1.28.0
+
+# Manipulación de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning y Preprocesamiento
+scikit-learn>=1.3.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilidades
+openpyxl>=3.1.0  # Para leer archivos Excel si es necesario
